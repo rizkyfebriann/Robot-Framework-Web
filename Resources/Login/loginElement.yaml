@@ -1,0 +1,5 @@
+txtUsername : user-name
+txtPassword : password
+btnLogin : login-button
+lblHomePage : //span[contains(text(),'Products')]
+lblErrorLockedAccount : //h3[contains(text(),"Sorry, this user has been locked out.")]

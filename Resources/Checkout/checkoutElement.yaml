@@ -1,0 +1,7 @@
+btnCheckout : checkout
+txtFirstName : first-name
+txtLastName : last-name
+txtPostalCode : postal-code
+btnContinueCheckout : continue
+btnFinishCheckout : finish
+lblThankYouForOrder : //h2[contains(text(),'Thank you for your order!')]
